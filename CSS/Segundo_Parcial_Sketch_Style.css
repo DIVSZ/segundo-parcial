@@ -1,0 +1,202 @@
+
+div.FirstClick h1{
+	position: absolute;
+	height: 33px;
+	left: 0%;
+	right: 85.02%;
+	top: calc(50% - 33px/2 + 4.5px);
+
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 22px;
+	line-height: 33px;
+
+	color: #2F281E;
+}
+
+div.FirstClick p{
+	position: absolute;
+	left: 0%;
+	right: 78.08%;
+	top: 65.18%;
+	bottom: 11.61%;
+
+	font-family:  'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 26px;
+
+	color: #5C5040;
+}
+
+div.Rectangulo{
+	position: absolute;
+	left: 0%;
+	right: 92.69%;
+	top: 0%;
+	bottom: 64.29%;
+
+	border: 2px solid #FF4F4F;
+	border-radius: 10px;
+}
+
+div.PrimerClic{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+div.RectanguloRed{
+	position: absolute;
+	left: 26.12%;
+	right: 66.58%;
+	top: 0%;
+	bottom: 64.29%;
+
+	background: #FF4F4F;
+	box-shadow: 0px 9px 42px rgba(9, 10, 12, 0.0661604);
+	border-radius: 10px;
+}   
+
+div.Biohazard{
+	margin-left: 18px;
+	margin-top: 25px;
+}
+
+div.DesignSurveys h1{
+	position: absolute;
+	height: 33px;
+	left: 26.12%;
+	right: 58.36%;
+	top: calc(50% - 33px/2 + 4.5px);
+
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 22px;
+	line-height: 33px;
+
+	color: #2F281E;
+}
+
+div.DesignSurveys p{
+	position: absolute;
+	left: 26.12%;
+	right: 51.96%;
+	top: 65.18%;
+	bottom: 11.61%;
+
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 26px;
+
+	color: #5C5040;
+}
+
+div.RectanguloPreference{
+	position: absolute;
+	left: 52.15%;
+	right: 40.55%;
+	top: 0%;
+	bottom: 64.29%;
+
+	border: 2px solid #FF4F4F;
+	border-radius: 10px;
+}
+
+div.HandShake{
+	margin-top: 26px;
+	margin-left: 20px;
+}
+
+div.PreferenceTests h1{
+	position: absolute;
+	height: 33px;
+	left: 52.15%;
+	right: 31.32%;
+	top: calc(50% - 33px/2 + 4.5px);
+
+	font-family:  'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 22px;
+	line-height: 33px;
+
+	color: #2F281E;
+}
+
+div.PreferenceTests p{
+	position: absolute;
+	left: 52.15%;
+	right: 25.94%;
+	top: 65.18%;
+	bottom: 11.61%;
+
+	font-family:  'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 26px;
+
+	color: #5C5040;
+}
+
+div.RectanguloUser{
+	position: absolute;
+	left: 78.08%;
+	right: 14.61%;
+	top: 0%;
+	bottom: 64.29%;
+
+	border: 2px solid #FF4F4F;
+	border-radius: 10px;
+}
+
+div.Usuario{
+	margin-top: 22px;
+	margin-left: 22px;
+
+}
+div.UserAstronaut h1{
+	position: absolute;
+	height: 33px;
+	left: 78.08%;
+	right: 6.76%;
+	top: calc(50% - 33px/2 + 4.5px);
+
+	font-family:'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 22px;
+	line-height: 33px;
+
+	color: #2F281E;
+}
+
+div.UserAstronaut p{
+	position: absolute;
+	left: 78.08%;
+	right: 0%;
+	top: 65.18%;
+	bottom: 0%;
+
+	font-family:'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 26px;
+
+	color: #5C5040;
+}
+
+div.Iconos{
+	font-family:  'Poppins', sans-serif;
+	position: absolute;
+	width: 1095px;
+	height: 224px;
+	left: 161px;
+	top: 852px;	
+}
