@@ -327,3 +327,42 @@ div.Iconos{
   
 }
 /*acaba segunda seccion*/
+/*Inicia cuarta*/
+.texto-centrado2{
+    padding-top: 151px;
+}
+.texto-centrado2 h1{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 51px;
+}
+.texto-centrado2 p{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+}
+.texto-centrado3 p{   
+  font-size: 14px;
+  color:  #FF4F4F;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600px;
+  line-height: 30px;
+}
+.texto-centrado4 p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 26px;
+    font-size: 16px;
+    color: #2C4E8B;
+    padding-top: 11px;
+
+}
+.imagen {
+    padding-top: 74px;
+}
+/*Acaba cuarta*/
