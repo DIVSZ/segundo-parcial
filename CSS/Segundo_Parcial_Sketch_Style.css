@@ -290,3 +290,40 @@ div.Iconos{
     width: 80px;
     display: block;
 }
+/* acaba primera seccion*/
+/*iniica segunda seccion*/
+.texto{
+    padding-top: 150px;
+    width: 518px;
+    height: 331px;
+}
+ .texto h1{    
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 54px;
+    color: #3B3322 ;
+}
+ .texto p{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #544835;
+}
+.buttom3{   
+    padding-top: 68px;
+    width: 200px;
+    margin-right: 200px;
+    display: flex;
+}
+.edificios{
+
+    position: absolute;
+    bottom: 0px;
+    top: 86px; 
+  
+}
+/*acaba segunda seccion*/
