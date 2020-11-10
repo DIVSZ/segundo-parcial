@@ -256,3 +256,37 @@ div.Iconos{
     padding-right: 518px;
     padding-top: 45px;
 }
+/*termina sexta seccion*/
+.ovalo{
+    position: absolute;
+    left: 600px;
+}
+
+.logo{  
+    padding-top: 49px;
+    display: block;
+}
+
+.nav-link{  
+  padding-top: 44px;
+  height: 28px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 28px;
+  color: #FFFFFF;
+}
+.buttom{    
+    padding-top: 44px;
+    display: block;
+    
+}
+.boton{ 
+    width: 80px;
+}
+.buttom2{   
+    padding-top:  44px;
+    width: 80px;
+    display: block;
+}
