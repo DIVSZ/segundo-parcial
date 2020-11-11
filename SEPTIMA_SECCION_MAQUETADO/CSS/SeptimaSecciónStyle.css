@@ -1,0 +1,343 @@
+
+div.Subscribe{
+	
+	position: absolute;
+	width: 1110px;
+	height: 301px;
+	left: 147px;
+	top: 3808px;
+}
+div.Email{
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+
+}
+div.Subscribe h4{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	line-height: 30px;
+	color: #FFFFFF;
+
+	position: absolute;
+	left: 210px;
+	top: 145px;
+
+}
+ul.SubscribeInput li{
+ position: absolute;
+ top: 130px;
+ left: 210px;
+
+}
+button{
+	background-color: #FF4F4F ;
+	mix-blend-mode: normal;
+	opacity: 0.5;
+
+	border: 2px solid #FFFFFF;
+	box-sizing: border-box;
+	border-radius:  0 10px 10px 0;
+	box-sizing: 100px;
+	padding: 15px;
+	position: absolute;
+	left: 610px;
+	background-image: url(IMAGES/send-email.svg);
+	background-size: cover;
+
+}
+
+input {
+	background-color: #FF4F4F ;
+	mix-blend-mode: normal;
+	opacity: 0.5;
+
+	border: 2px solid #FFFFFF;
+	box-sizing: border-box;
+	border-radius: 10px 0 0 10px;
+	box-sizing: 100px;
+	padding: 15px;
+	left: 332px;
+	position: absolute;
+} 
+input[type="email"]{
+	font-family:'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+	color: white;
+	width: 280px;
+}
+.SubscribeInput input::placeholder{
+	color: white;
+}
+
+label[for="mail"]{
+	font-size: 20px;
+	color: white;
+	font-family:'Poppins', sans-serif;
+}
+
+div.Mascara{
+	position: absolute;
+	width: 1110px;
+	height: 301px;
+	left: -15px;
+	top: 60px;
+
+	background: #FF4F4F;
+	border-radius: 10px;
+}
+.Ovalo1{
+	width: 220px;
+	height: 220px;
+	border-radius: 50%;
+
+	background: #FFFFFF;
+	mix-blend-mode: normal;
+	opacity: 0.06;	
+
+	position: absolute;
+	margin: auto;
+	left: 300px;
+	right: 0;
+	top: -120px;
+	bottom: 0;
+
+}
+.Ovalo2{
+	width: 260px;
+	height: 260px;
+	border-radius: 50%;
+
+	background: #FFFFFF;
+	mix-blend-mode: normal;
+	opacity: 0.06;	
+	
+	position: absolute;
+	margin: auto;
+	left: 555px;
+	right: 0;
+	top: -120px;
+	bottom: 0;
+}
+.Ovalo3{
+	width: 220px;
+	height: 230px;
+	border-radius: 50%;
+
+	background: #FFFFFF;
+	mix-blend-mode: normal;
+	opacity: 0.06;	
+
+	position: absolute;
+	margin: auto;
+	left: 850px;
+	right: 0;
+	top: -120px;
+	bottom: 0;
+
+}
+.Ovalo4{
+	width: 220px;
+	height: 220px;
+	border-radius: 50%;
+
+	background: #FFFFFF;
+	mix-blend-mode: normal;
+	opacity: 0.06;	
+
+	position: absolute;
+	margin: auto;
+	left: -850px;
+	right: 0;
+	top: 700px;
+	bottom: 0;
+
+}
+
+.Ovalo5{
+	width: 260px;
+	height: 260px;
+	border-radius: 50%;
+
+	background: #FFFFFF;
+	mix-blend-mode: normal;
+	opacity: 0.06;	
+
+	position: absolute;
+	margin: auto;
+	left: -625px;
+	right: 0;
+	top: 700px;
+	bottom: 0;
+
+}
+
+.Ovalo6{
+	width: 220px;
+	height: 220px;
+	border-radius: 50%;
+
+	background: #FFFFFF;
+	mix-blend-mode: normal;
+	opacity: 0.06;	
+
+	position: absolute;
+	margin: auto;
+	left: -350px;
+	right: 0;
+	top: 700px;
+	bottom: 0;
+}
+div.LastPart{
+
+	position: absolute;
+	width: 1131px;
+	height: 390px;
+	left: 125px;
+	top: 425px;
+}
+div.LastCuadritoRojo{
+	position: absolute;
+	background: #FF4F4F;
+	border-radius: 0 0 0 0;
+
+	left: 120px;
+	width: 12px;
+	height: 12px;
+	top: 3915px;
+	position: absolute;
+}
+
+div.tituloProtips h3{
+	top: 3900px;
+	position: absolute;
+}
+
+div.LastPart p{
+	top: 3950px;
+	position: absolute;
+}
+p.Texto01{
+	position: absolute;
+	left: -10px;
+	height: 2000px;
+	top: -200px;
+	padding-top: 25px;
+}
+p.Texto02{
+	position: absolute;
+	left: -10px;
+	height: 2000px;
+	top: -200px;
+	padding-top: 70px;
+}
+p.Texto03{
+	position: absolute;
+	left: -10px;
+	height: 2000px;
+	top: -200px;
+	padding-top: 110px;
+}
+p.Texto04{
+	position: absolute;
+	left: -10px;
+	height: 2000px;
+	top: -200px;
+	padding-top: 150px;
+}
+p.Texto05{	
+	position: absolute;
+	left: 700px;
+	height: 2000px;
+	top: -200px;
+	padding-top: 25px;
+}
+p.Texto06{	
+	position: absolute;
+	left: 700px;
+	height: 2000px;
+	top: -200px;
+	padding-top: 70px;
+}
+p.Texto07{	
+	position: absolute;
+	left: 700px;
+	height: 2000px;
+	top: -200px;
+	padding-top: 110px;
+}
+p.Texto08{
+	position: absolute;
+	left: 920px;
+	height: 2000px;
+	top: -200px;
+	padding-top: 30px;
+}
+p.Texto09{
+	position: absolute;
+	left: 700px;
+	height: 2000px;
+	top: -200px;
+	padding-top: 150px;
+}
+p.Texto10{
+	position: absolute;
+	left: 920px;
+	height: 2000px;
+	top: -200px;
+	padding-top: 70px;
+}
+p.Texto11{
+	position: absolute;
+	left: 920px;
+	height: 2000px;
+	top: -200px;
+	padding-top: 110px;
+}
+p.Texto12{
+	position: absolute;
+	left: 920px;
+	height: 2000px;
+	top: -200px;
+	padding-top: 150px;
+}
+p.Creador{
+	position: absolute;
+	left: 465px;
+	height: 2000px;
+	top: -200px;
+	padding-top: 300px;
+
+	font-family:'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 35px;
+
+	text-align: center;
+
+	color: #5D523D;
+}
+
+p.Creador01{
+	position: absolute;
+	left: 530px;
+	height: 2000px;
+	top: -200px;
+	padding-top: 300px;
+
+	font-family:'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 35px;
+
+	text-align: center;
+	color: red;
+}
