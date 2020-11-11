@@ -200,6 +200,7 @@ div.Iconos{
 	left: 161px;
 	top: 852px;	
 }
+<<<<<<< Updated upstream
 /*inicia sexta seccion*/
 .texto-centrado{
     padding-top: 108px;
@@ -383,3 +384,65 @@ div.Iconos{
     color: #000000;
 }
 /*Termina quinta*/
+=======
+div.AboutUs{
+	position: absolute;
+	width: 1400px;
+	height: 730px;
+	left: 0px;
+	top: 1148px;
+
+}
+
+div.Protips{
+	position: absolute;
+	height: 36px;
+	left: 122%;
+	right: 33%;
+	top: 150px;
+x
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 36px;
+
+	color: #2F281E;
+}
+
+div.CuadritoRojo{
+	position: absolute;
+	height: 36px;
+	left: 135%;
+	right: 33%;
+	top: 155px;
+}
+
+div.LearnWithPropits h2{
+	position: absolute;
+	height: 60px;
+	left: 860px;
+	right: 246px;
+	top: 192px;
+	width: 1000px;
+
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 60px;
+
+	color: #262626;
+}
+
+div.Ilustration{
+	position: absolute;
+	width: 543px;
+	height: 501px;
+	left: 161px;
+	top: 133px;
+	bottom: 96px;
+	size: -220px;
+}
+
+>>>>>>> Stashed changes
